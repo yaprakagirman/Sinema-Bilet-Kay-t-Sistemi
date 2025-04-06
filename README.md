@@ -42,6 +42,7 @@ Bu projeyi yaparken aşağıdaki konuları öğrendim:
 - Menü yapısı kurma (do-while ve if yapılarıyla)
 - 2 boyutlu dizi kullanımı (`boolean[][]`)
 
+Bu proje intellij IDEA kullanılarak yapıldı. 
 
 
 
